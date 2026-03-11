@@ -1,0 +1,46 @@
+{
+  "name": "taskgate",
+  "version": "1.1.0",
+  "description": "A structured AI-assisted task workflow system with approval gates. Plan complex tasks with AI, then execute them step-by-step with verification and human approval.",
+  "keywords": [
+    "ai",
+    "workflow",
+    "task-management",
+    "copilot",
+    "cursor",
+    "claude",
+    "coding-assistant",
+    "atomic-tasks",
+    "approval-gates",
+    "hybrid-workflow"
+  ],
+  "author": "Konrad Czerwinski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/taskgate.git"
+  },
+  "homepage": "https://github.com/user/taskgate#readme",
+  "bugs": {
+    "url": "https://github.com/user/taskgate/issues"
+  },
+  "bin": {
+    "taskgate": "./bin/taskgate.js"
+  },
+  "main": "lib/init.js",
+  "files": [
+    "bin/",
+    "lib/",
+    "skills/",
+    "templates/",
+    "docs/",
+    "snippets/"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+

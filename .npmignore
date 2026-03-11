@@ -1,0 +1,10 @@
+.git/
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+*.log
+coverage/
+.env
+TASKGATE-NPM-PACKAGE-SPEC.md
+
