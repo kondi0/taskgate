@@ -1,6 +1,6 @@
 {
   "name": "taskgate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A structured AI-assisted task workflow system with approval gates. Plan complex tasks with AI, then execute them step-by-step with verification and human approval.",
   "keywords": [
     "ai",
@@ -18,11 +18,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/user/taskgate.git"
+    "url": "git+https://github.com/kondi0/taskgate.git"
   },
-  "homepage": "https://github.com/user/taskgate#readme",
+  "homepage": "https://github.com/kondi0/taskgate#readme",
   "bugs": {
-    "url": "https://github.com/user/taskgate/issues"
+    "url": "https://github.com/kondi0/taskgate/issues"
   },
   "bin": {
     "taskgate": "./bin/taskgate.js"
